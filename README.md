@@ -1,7 +1,7 @@
 # 3D Mouse
 ### _Discription_
 
-The Project shows how we can interact with our PCs more interactivly with the use of 3-dimentional Gesture Capture. As Hardware we have used MPU 9250, contolled by ESP D1 mini. 
+The Project shows how we can interact with our PCs more interactivly with the use of 3-dimentional Gesture contol. As Hardware we have used MPU 9250, contolled by ESP D1 mini. 
 
 ### _Working_
 
