@@ -10,5 +10,6 @@ The Project shows how we can interact with our PCs more interactivly with the us
 The ESP8266 Controller reads the motion of hand from the MPU. Then the algorithm determines the type of motion based on the changing values of X, Y and Z axises. Based on the intensity of the motion the algorithm computes a vector (displacement + direction) and sends it to the PC via UART protocol.
 
  **2. Software :**
+ 
  Software we use is MATLAB which reads the vector input from Controller and changes the Mouse cursor position accordingly.
  
