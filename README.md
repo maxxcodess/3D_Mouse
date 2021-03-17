@@ -11,5 +11,5 @@ The ESP8266 Controller reads the motion of hand from the MPU. Then the algorithm
 
  **2. Software :**
  
- Software we use is MATLAB which reads the vector input from Controller and changes the Mouse cursor position accordingly.
+ Software we use is MATLAB which reads the vector input from Controller and changes the Mouse cursor position accordingly. It aslo suppport Left and Right click.
  
